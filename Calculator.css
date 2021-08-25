@@ -1,0 +1,28 @@
+.cal{
+    width: 400px;
+    height: 650px;
+    border: solid 2px;
+    margin-left: 560px;
+    background: grey;
+
+}
+.output{
+    width: 375px;
+    height: 51px;
+    background: white;
+    margin-left: 11px;
+    margin-top: 29px
+    
+}
+#screen{
+    width: 369px;
+height: 52px;
+pointer-events: none;
+}
+.btn{
+    width: 58px;
+height: 51px;
+margin-top: 60px;
+margin-left: 32px;
+background: orange;
+}
